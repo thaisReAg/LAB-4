@@ -40,6 +40,7 @@ header {
   display: flex;
   align-items: center;
   gap: 25px;
+  cursor: pointer;
 }
 
 /*-----TOP SECTION----*/
@@ -170,6 +171,7 @@ font-size: 2em;
 #icono{
   height: 100px;
   width: auto;
-  top:250px;
-  position: relative;
+  top: 1500px;
+    position: absolute;
+    left: 600px;
 }
